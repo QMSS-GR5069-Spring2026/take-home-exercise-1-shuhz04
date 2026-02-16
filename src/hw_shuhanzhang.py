@@ -12,6 +12,7 @@ Original file is located at
 #load libraries
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns 
 import numpy as np
 
 """1. Import the data. The headlines will become your vectorized X matrix, and the labels indicate a binary classification (clickbait or not)."""
